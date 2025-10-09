@@ -66,6 +66,20 @@ npx ts-node src/03-function-calling.ts
 
 ---
 
+### 示例 4：图像识别（Vision）
+演示如何使用 GPT-4 Vision 分析图片内容。
+
+```bash
+npm run demo4
+```
+
+**功能：**
+- 分析在线图片 URL
+- 支持本地图片（base64 编码）
+- 多模态对话（文本 + 图片）
+
+---
+
 ## 📚 示例说明
 
 ### 模型选择

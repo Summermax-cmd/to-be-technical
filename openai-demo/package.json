@@ -7,6 +7,7 @@
     "demo1": "ts-node src/01-basic-chat.ts",
     "demo2": "ts-node src/02-streaming.ts",
     "demo3": "ts-node src/03-function-calling.ts",
+    "demo4": "ts-node src/04-vision.ts",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
